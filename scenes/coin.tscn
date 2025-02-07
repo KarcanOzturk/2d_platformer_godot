@@ -105,7 +105,7 @@ script = ExtResource("1_po3od")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_wrpks")
 autoplay = "default"
-frame_progress = 0.412095
+frame_progress = 0.380092
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CircleShape2D_1fshl")

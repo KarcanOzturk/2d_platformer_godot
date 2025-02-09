@@ -259,7 +259,6 @@ position = Vector2(520, 36)
 [node name="Coin7" parent="Coins" instance=ExtResource("4_uvyh5")]
 position = Vector2(489, 36)
 rotation = -0.378618
-scale = Vector2(1, 1)
 
 [node name="Coin8" parent="Coins" instance=ExtResource("4_uvyh5")]
 position = Vector2(505, 36)
